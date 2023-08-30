@@ -1,1 +1,12 @@
-# Placeholder for OpenAI API Configuration 
+# API Configuration for AI-Responder SAAS
+
+# OpenAI Integration
+OPENAI_API_KEY = YOUR_API_KEY_HERE
+
+# Database Configuration (just an example, might not be applicable here)
+DB_HOST = localhost
+DB_USER = root
+DB_PASSWORD = YOUR_DB_PASSWORD_HERE
+DB_NAME = ai_responder_saas
+
+# Other configurations can be added as needed
