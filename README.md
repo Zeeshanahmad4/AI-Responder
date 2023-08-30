@@ -22,13 +22,12 @@ An innovative SAAS web application developed on the Bubble platform that integra
 
 ## Usage Examples 📌
 
-pythonCopy code
-
-`from AI_Module import response_generation
+from AI_Module import response_generation
 
 comment = "Tell me more about Brand X."
 response = response_generation.get_response_for_comment(comment)
-print(response)`
+print(response)
+`
 
 ## Setup and Installation Instructions 🛠
 
