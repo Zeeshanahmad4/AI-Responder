@@ -6,6 +6,7 @@ class UserAccessControl:
     def __init__(self, user_id, subscription_type="Free"):
         self.user_id = user_id
         self.subscription_type = subscription_type
+        Database.insert_user(user_id, subscription_type)  # Insert user with their subscription type
 
     def check_access(self, feature):
         """
@@ -24,4 +25,5 @@ class UserAccessControl:
         Update the user's subscription type.
         """
         self.subscription_type = new_subscription_type
-        # Logic to update the user's subscription in the database
+        Database.update_subscription(self.user_id, new_subscription_type)  # Update subscription in mock database
+        print(f"Subscription updated to {new_subscription_type} for user {self.user_id}.")
