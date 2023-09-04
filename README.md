@@ -32,16 +32,9 @@
 
 - [Project Overview](https://github.com/Zeeshanahmad4/AI-Responder#project-overview-)
 - [Features](https://github.com/Zeeshanahmad4/AI-Responder#2-features-)
-  - [OpenAI Integration](https://github.com/Zeeshanahmad4/AI-Responder#2-features-)
-  - [Subscription System](https://github.com/Zeeshanahmad4/AI-Responder#2-features-)
-  - [Admin Dashboard](https://github.com/Zeeshanahmad4/AI-Responder#2-features-)
-  - [Mobile Responsiveness](https://github.com/Zeeshanahmad4/AI-Responder#2-features-)
-- [Future Features (To-Do)](https://github.com/Zeeshanahmad4/AI-Responder#future-features-to-do-)
-  - [User Analytics](https://github.com/Zeeshanahmad4/AI-Responder#future-features-to-do-)
-  - [Custom Response Templates](https://github.com/Zeeshanahmad4/AI-Responder#future-features-to-do-)
-  - [Multi-Language Support](https://github.com/Zeeshanahmad4/AI-Responder#future-features-to-do-)
+    - [Future Features (To-Do)](https://github.com/Zeeshanahmad4/AI-Responder#future-features-to-do-)
 - [Usage Examples](https://github.com/Zeeshanahmad4/AI-Responder#usage-examples-)
-- [Setup and Installation Instructions](https://github.com/Zeeshanahmad4/AI-Responder#setup-and-installation-instructions-)
+    - [Setup and Installation Instructions](https://github.com/Zeeshanahmad4/AI-Responder#setup-and-installation-instructions-)
 - [Troubleshooting Tips](https://github.com/Zeeshanahmad4/AI-Responder#troubleshooting-tips-)
 - [Contribution Guidelines](https://github.com/Zeeshanahmad4/AI-Responder#contribution-guidelines-)
 
