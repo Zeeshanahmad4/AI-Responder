@@ -30,7 +30,7 @@
 
 ## Table of Contents
 
-- [Project Overview](https://github.com/Zeeshanahmad4/AI-Responder#project-overview-)
+- [Project Overview](https://github.com/Zeeshanahmad4/AI-Responder#1-project-overview-)
 - [Features](https://github.com/Zeeshanahmad4/AI-Responder#2-features-)
     - [Future Features (To-Do)](https://github.com/Zeeshanahmad4/AI-Responder#future-features-to-do-)
 - [Usage Examples](https://github.com/Zeeshanahmad4/AI-Responder#usage-examples-)
