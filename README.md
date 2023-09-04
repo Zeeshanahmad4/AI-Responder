@@ -29,11 +29,6 @@
 </div>
 
 
-# 🌐 **AI-Responder**
-
-
-Web application developed on the Bubble platform that integrates with OpenAI to auto-respond to comments based on user-specified products or brands.
-
 ## 1\. Project Overview 📋
 
 **AI-Responder** is designed to harness the power of AI to generate automated responses for user comments. Seamlessly built on Bubble and tightly integrated with OpenAI, it offers subscription-based services with an intuitive admin dashboard.
